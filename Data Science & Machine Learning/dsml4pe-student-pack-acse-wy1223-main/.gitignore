@@ -1,0 +1,13 @@
+*.egg-info
+.coverage
+.ipynb_checkpoints
+.DS_Store
+raw_data/
+**/__pycache__/
+.env
+GlobalLandTemperaturesByCity.csv
+dunes_dataset
+/__MACOSX
+.python-version
+.joblib
+.pickle
